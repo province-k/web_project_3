@@ -5,8 +5,9 @@
     max-width: 320px;
     position: absolute;
     top: 391px;
-    left: 432px;
+    left: 428px;
     margin-top: 0px;
+    color: #fff;
 }
 
 @media screen and (max-width: 1024px) {

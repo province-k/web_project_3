@@ -1,5 +1,37 @@
-@import url('./__container/intro__container.css');
 @import url('./__title/intro__title.css');
 @import url('./__subtitle/intro__subtitle.css');
 @import url('./__main-text/intro__main-text.css');
 @import url('./__list/intro__list.css');
+@import url('./__list-numbers/intro__list-numbers.css');
+
+
+.intro {
+    margin-top: 92px;
+    margin-left: 148px;
+    margin-right: 0;
+    max-width: 690px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        margin-left: 24px;
+        margin-right: 24px;
+        max-width: 720px;
+        
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .intro {
+        max-width: 288px;
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+}

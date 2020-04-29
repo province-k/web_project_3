@@ -6,6 +6,6 @@
 }
 
 .place__link:hover {
-    cursor: url('./images/Cursor/Pointer.svg'), pointer;
+    cursor: url('../../../images/Cursor/Pointer.svg'), pointer;
     opacity: 0.8;
 }

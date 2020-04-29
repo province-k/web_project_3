@@ -6,6 +6,8 @@
     margin: 92px auto 12px;
     grid-gap: 16px 16px;
     max-width: 92%;
+    list-style: none;
+    padding: 0;
 }
 
 
