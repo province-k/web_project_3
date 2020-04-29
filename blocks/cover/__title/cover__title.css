@@ -4,32 +4,20 @@
     line-height: 1.1;
     max-width: 656px;
     position: absolute;
-    top: 283px;
-    left: 279px;
     margin-top: 0px;
     margin-bottom: 32px;
     color: #fff;
     text-decoration: none;
+    top: calc(50% - 72px);
+    left: calc((100% - 618px) / 2);
 }
 
-@media screen and (max-width: 1024px) {
-    .cover__title {
-        top: 233px;
-        left: 202px;
-    }
-}
 
-@media screen and (max-width: 768px) {
-    .cover__title {
-        top: 153px;
-        left: 74px;
-    }
-}
 
 @media screen and (max-width: 475px) {
     .cover__title {
-        top: 51px;
-        left: 22px;
+        top: calc(50% - 32px );
+        left: calc((100% - 288px)/2);
         margin-bottom: 16px;
         font-size: 32px;
         line-height: 1.1;
