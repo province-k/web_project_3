@@ -1,7 +1,7 @@
 # Project 3: From Portland to Portland
 
 ### Overview
-This is my second real project. The website about traveling across the US.
+This is my second real project. The website about traveling across the US. Check it out here:  https://province-k.github.io/web_project_3/.index.html
 
 **Technologies**
 
