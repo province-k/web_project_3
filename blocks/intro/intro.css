@@ -7,7 +7,7 @@
 
 .intro {
     margin-top: 92px;
-    margin-left: 148px;
+    margin-left: calc((100% - 984px) / 2);
     margin-right: 0;
     max-width: 690px;
 }

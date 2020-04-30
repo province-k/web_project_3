@@ -1,7 +1,7 @@
 .lead__caption {
     max-width: 183px;
     margin-top: 8px;
-    margin-left: 148px;
+    margin-left: calc((100% - 984px) / 2);
     font-weight: normal;
     font-size: 10px;
     line-height: 14px;
